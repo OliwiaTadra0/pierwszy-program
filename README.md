@@ -1,4 +1,4 @@
 # pierwszy-program
 Pierwszy projekt w c#
 Zostal stworzony na serwerze githuba
-Modyfikacja lokalna w VSCode
+Modyfikacja lokalna w Visual Code
